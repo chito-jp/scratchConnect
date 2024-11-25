@@ -1,0 +1,2 @@
+# scratchConnect
+Node.jsから簡単にscratchに接続できるようなライブラリを作成予定です。
