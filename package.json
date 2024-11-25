@@ -1,0 +1,11 @@
+{
+  "name": "ScratchConnect",
+  "version": "1.0.0",
+  "description": "Node.jsから簡単にscratchに接続するためのライブラリ",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
